@@ -9,6 +9,11 @@
 }
 
 
+.header{url(B12A01-landing-launchpad/Assets/Hero-bg.png)
+
+}
+
+
 /* nav style*/
 nav{
     display: flex;
@@ -22,6 +27,7 @@ nav{
 .nav-title{
     font-weight: 800;
     font-size: 25px;
+    color: #4E47FF;
 }
 .btn{
     background-color:#4E47FF ;
@@ -29,4 +35,16 @@ nav{
     padding: 15px 30px;
     font-size: 9px;
     border-radius: 5px;
+    border: none;
+}
+div{
+    align-items: center;
+}
+.banner{
+    font-style: bold;
+    align-items: center;
+    font-size: 65px;
+    max-width: 580px;
+    
+
 }
